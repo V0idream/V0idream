@@ -59,6 +59,32 @@
 
 </div>
 
+## 🧭 Find Me
+
+<div align="center">
+
+<a href="https://www.coolapk.com/u/3597697">
+  <img src="https://img.shields.io/badge/CoolAPK-酷安主页-11C5D9?style=for-the-badge" alt="CoolAPK" />
+</a>
+<a href="mailto:v0idream@163.com">
+  <img src="https://img.shields.io/badge/Email-v0idream%40163.com-6E00FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/V0idream/V0idream/blob/main/docs/support.md">
+  <img src="https://img.shields.io/badge/Support-赞赏项目-FFB000?style=for-the-badge" alt="Support" />
+</a>
+
+</div>
+
+## ☕ Support
+
+如果我的项目对你有帮助，欢迎点一个 Star。若愿意进一步支持，也可以通过赞赏码请作者续一口 AI 订阅。
+
+众所周知，风水宝地土耳其并非久居之所；账号颠沛流离，订阅价格又日渐高昂，维护开源项目实属不易。
+
+<p align="center">
+  <a href="https://github.com/V0idream/V0idream/blob/main/docs/support.md">查看赞赏方式 / Support This Project</a>
+</p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E6,50:00D9FF,100:6E00FF&height=120&section=footer" alt="footer" />
