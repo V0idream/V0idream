@@ -32,7 +32,7 @@
 可通过下方赞赏码支持项目维护：
 
 <p align="center">
-  <img src="../assets/reward-code.svg" alt="赞赏码" width="420" />
+  <img src="../assets/reward-code.png" alt="赞赏码" width="420" />
 </p>
 
 > 赞赏完全自愿，不构成购买、雇佣、付费支持或商业服务承诺。  
