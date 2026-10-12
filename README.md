@@ -16,13 +16,9 @@
 
 <table>
 <tr><td>
-
-### [EvidenceWeave](https://github.com/V0idream/EvidenceWeave)
-
-A **local-first evidence review workbench** that helps identify potentially supporting or conflicting statements across case materials. Findings remain traceable to source excerpts and PDF pages, with human verification built into the workflow.
-
-`React` · `TypeScript` · `FastAPI` · `Ollama` · `PDF.js`
-
+<h3><a href="https://github.com/V0idream/EvidenceWeave">EvidenceWeave</a></h3>
+<p>A <strong>local-first evidence review workbench</strong> that helps identify potentially supporting or conflicting statements across case materials. Findings remain traceable to source excerpts and PDF pages, with human verification built into the workflow.</p>
+<p><code>React</code> · <code>TypeScript</code> · <code>FastAPI</code> · <code>Ollama</code> · <code>PDF.js</code></p>
 </td></tr>
 </table>
 
@@ -31,30 +27,22 @@ A **local-first evidence review workbench** that helps identify potentially supp
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### [OrbitWheel](https://github.com/V0idream/OrbitWheel)
-A configurable radial launcher for Windows, with keyboard shortcuts, gestures, and a Fluent-style settings interface.
-
+<h3><a href="https://github.com/V0idream/OrbitWheel">OrbitWheel</a></h3>
+<p>A configurable radial launcher for Windows, with keyboard shortcuts, gestures, and a Fluent-style settings interface.</p>
 </td>
 <td width="50%" valign="top">
-
-### [QuickBar](https://github.com/V0idream/QuickBar)
-An Android accessibility overlay for reusable text shortcuts, clipboard actions, and lightweight automation.
-
+<h3><a href="https://github.com/V0idream/QuickBar">QuickBar</a></h3>
+<p>An Android accessibility overlay for reusable text shortcuts, clipboard actions, and lightweight automation.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### [Jianying Agent Automation](https://github.com/V0idream/Jianying-Agent-Automation)
-AI-assisted workflows for generating editable Jianying projects and automating exports on Windows.
-
+<h3><a href="https://github.com/V0idream/Jianying-Agent-Automation">Jianying Agent Automation</a></h3>
+<p>AI-assisted workflows for generating editable Jianying projects and automating exports on Windows.</p>
 </td>
 <td width="50%" valign="top">
-
-### [Taskbar Nova](https://github.com/V0idream/TaskbarNova)
-A desktop spaceship exploration game with autonomous navigation, tactical combat, and ship customization.
-
+<h3><a href="https://github.com/V0idream/TaskbarNova">Taskbar Nova</a></h3>
+<p>A desktop spaceship exploration game with autonomous navigation, tactical combat, and ship customization.</p>
 </td>
 </tr>
 </table>
