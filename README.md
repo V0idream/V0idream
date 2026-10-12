@@ -55,6 +55,18 @@
 
 **Interests** &nbsp; AI tooling · local-first apps · anime & games
 
+## 🏆 Achievements
+
+<p align="center">
+  <a href="https://github.com/V0idream">
+    <img src="https://github-profile-trophy.vercel.app/?username=V0idream&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;column=5&amp;margin-w=8" alt="GitHub activity trophies for V0idream" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>These activity trophies are generated from public GitHub data. Official GitHub achievement badges appear on the <a href="https://github.com/V0idream">profile sidebar</a> when enabled.</sub>
+</p>
+
 ## GitHub activity
 
 <p align="center">
