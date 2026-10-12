@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 250" role="img" aria-labelledby="title desc">
+  <title id="title">V0idream</title>
+  <desc id="desc">AI, software and automation. A clean midnight-blue developer profile banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1328"/>
+      <stop offset="55%" stop-color="#122b4b"/>
+      <stop offset="100%" stop-color="#163c51"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#62c2ff"/>
+      <stop offset="100%" stop-color="#91efd7"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#55c5f6" stop-opacity=".19"/>
+      <stop offset="100%" stop-color="#55c5f6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1100" height="250" rx="20" fill="url(#bg)"/>
+  <circle cx="920" cy="130" r="185" fill="url(#glow)"/>
+  <g fill="none" stroke="#a5dfff" stroke-opacity=".22">
+    <circle cx="905" cy="128" r="52"/>
+    <circle cx="905" cy="128" r="87"/>
+    <circle cx="905" cy="128" r="122"/>
+    <path d="M770 128h270M905-7v270" stroke-opacity=".12"/>
+  </g>
+  <path d="M780 176a135 135 0 0 0 235-90" stroke="url(#accent)" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+  <circle cx="803" cy="193" r="6" fill="#91efd7"/>
+  <circle cx="980" cy="41" r="4.5" fill="#79ccff"/>
+  <circle cx="905" cy="128" r="12" fill="#a5edec" fill-opacity=".9"/>
+  <g fill="#d4e9ff" opacity=".72">
+    <circle cx="739" cy="42" r="2"/>
+    <circle cx="1003" cy="215" r="1.7"/>
+    <circle cx="1057" cy="62" r="2"/>
+    <circle cx="698" cy="200" r="1.5"/>
+  </g>
+  <rect x="54" y="50" width="5" height="148" rx="2.5" fill="url(#accent)"/>
+  <text x="83" y="104" fill="#f6faff" font-family="Segoe UI, Arial, sans-serif" font-size="53" font-weight="700" letter-spacing="1">V0idream</text>
+  <text x="85" y="146" fill="#8fe0ee" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="500" letter-spacing="1.5">AI · SOFTWARE · AUTOMATION</text>
+  <text x="85" y="184" fill="#c7d8e9" font-family="Segoe UI, Arial, sans-serif" font-size="18">Exploring ideas. Building useful tools.</text>
+</svg>
