@@ -1,33 +1,89 @@
-# V0idream
+<div align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="V0idream — AI, Software, Automation" />
+</div>
 
-**AI × Software**
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-0f766e?style=flat-square" alt="AI and Automation" />
+  <img src="https://img.shields.io/badge/Platforms-Windows%20%26%20Android-2563eb?style=flat-square" alt="Windows and Android" />
+  <img src="https://img.shields.io/badge/Approach-Local--first-475569?style=flat-square" alt="Local-first" />
+</p>
 
-I’m an independent developer. I build practical tools, explore AI-assisted workflows, and enjoy making software that solves everyday problems.
+<p align="center">
+  Independent developer building practical software, experimenting with AI-assisted workflows, and turning ideas into usable tools.
+</p>
 
-```text
-$ whoami
-V0idream / builder / lifelong learner
+## ✦ Featured project
 
-$ focus
-desktop & mobile tools · AI automation · developer utilities
-```
+<table>
+<tr><td>
+
+### [EvidenceWeave](https://github.com/V0idream/EvidenceWeave)
+
+A **local-first evidence review workbench** that helps identify potentially supporting or conflicting statements across case materials. Findings remain traceable to source excerpts and PDF pages, with human verification built into the workflow.
+
+`React` · `TypeScript` · `FastAPI` · `Ollama` · `PDF.js`
+
+</td></tr>
+</table>
 
 ## Selected projects
 
-| Project | What it does |
-| :-- | :-- |
-| **[OrbitWheel](https://github.com/V0idream/OrbitWheel)** | A configurable radial launcher for Windows, with a Fluent-style settings interface. |
-| **[QuickBar](https://github.com/V0idream/QuickBar)** | Android text shortcuts and lightweight automation through an accessibility overlay. |
-| **[Jianying Agent Automation](https://github.com/V0idream/Jianying-Agent-Automation)** | AI-agent workflows for creating, editing, and exporting Jianying Pro projects. |
-| **[Taskbar Nova](https://github.com/V0idream/TaskbarNova)** | A desktop spaceship exploration and automation game for Windows. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [OrbitWheel](https://github.com/V0idream/OrbitWheel)
+A configurable radial launcher for Windows, with keyboard shortcuts, gestures, and a Fluent-style settings interface.
+
+</td>
+<td width="50%" valign="top">
+
+### [QuickBar](https://github.com/V0idream/QuickBar)
+An Android accessibility overlay for reusable text shortcuts, clipboard actions, and lightweight automation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Jianying Agent Automation](https://github.com/V0idream/Jianying-Agent-Automation)
+AI-assisted workflows for generating editable Jianying projects and automating exports on Windows.
+
+</td>
+<td width="50%" valign="top">
+
+### [Taskbar Nova](https://github.com/V0idream/TaskbarNova)
+A desktop spaceship exploration game with autonomous navigation, tactical combat, and ship customization.
+
+</td>
+</tr>
+</table>
 
 ## Toolbox
 
-**Languages**  `Python` · `TypeScript` · `Kotlin` · `C#`
+**Languages** &nbsp; `Python` · `TypeScript` · `Kotlin` · `C#`
 
-**Tools & frameworks**  `React` · `FastAPI` · `Jetpack Compose` · `WinUI 3`
+**Tools & frameworks** &nbsp; `React` · `FastAPI` · `Jetpack Compose` · `WinUI 3`
 
-**Interests**  AI tooling · local-first apps · anime & games
+**Interests** &nbsp; AI tooling · local-first apps · anime & games
+
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=V0idream&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=V0idream&amp;show_icons=true&amp;hide_border=true&amp;theme=default" alt="V0idream GitHub stats" height="165" />
+  </picture>
+</p>
+
+### Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V0idream/V0idream/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/V0idream/V0idream/output/github-snake.svg" alt="Animated contribution snake" width="100%" />
+  </picture>
+</p>
 
 ## Connect
 
