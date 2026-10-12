@@ -1,22 +1,21 @@
 # V0idream
 
-**Law × AI × Software**
+**AI × Software**
 
-I’m a law student and an independent developer. I build practical tools, explore AI-assisted workflows, and enjoy making software that solves everyday problems.
+I’m an independent developer. I build practical tools, explore AI-assisted workflows, and enjoy making software that solves everyday problems.
 
 ```text
 $ whoami
 V0idream / builder / lifelong learner
 
 $ focus
-legal tech · desktop & mobile tools · AI automation
+desktop & mobile tools · AI automation · developer utilities
 ```
 
 ## Selected projects
 
 | Project | What it does |
 | :-- | :-- |
-| **[EvidenceWeave](https://github.com/V0idream/EvidenceWeave)** | Local-first legal evidence review with traceable PDF citations and human verification. |
 | **[OrbitWheel](https://github.com/V0idream/OrbitWheel)** | A configurable radial launcher for Windows, with a Fluent-style settings interface. |
 | **[QuickBar](https://github.com/V0idream/QuickBar)** | Android text shortcuts and lightweight automation through an accessibility overlay. |
 | **[Jianying Agent Automation](https://github.com/V0idream/Jianying-Agent-Automation)** | AI-agent workflows for creating, editing, and exporting Jianying Pro projects. |
@@ -28,7 +27,7 @@ legal tech · desktop & mobile tools · AI automation
 
 **Tools & frameworks**  `React` · `FastAPI` · `Jetpack Compose` · `WinUI 3`
 
-**Interests**  AI tooling · local-first apps · legal tech · anime & games
+**Interests**  AI tooling · local-first apps · anime & games
 
 ## Connect
 
